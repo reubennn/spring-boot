@@ -13,9 +13,12 @@ A basic Java application which uses Spring Boot to create a Rest API.
 
 ## Mac Shortcuts
 
+### Toggle hidden folders (Finder)
+⇧⌘. `(shift+command+dot)`
+
 ## IntelliJ
 
-### Optimise/Clean up Imports
+### Optimise/clean up imports
 **⌃⌥O `(ctrl+option+O)`**
 
 ### Multi-line select (modify multiple similar lines at once)
